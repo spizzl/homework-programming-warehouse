@@ -1,0 +1,15 @@
+/home/fuzzywood/RiderProjects/Homework/bin/Debug/net8.0/Homework
+/home/fuzzywood/RiderProjects/Homework/bin/Debug/net8.0/Homework.deps.json
+/home/fuzzywood/RiderProjects/Homework/bin/Debug/net8.0/Homework.runtimeconfig.json
+/home/fuzzywood/RiderProjects/Homework/bin/Debug/net8.0/Homework.dll
+/home/fuzzywood/RiderProjects/Homework/bin/Debug/net8.0/Homework.pdb
+/home/fuzzywood/RiderProjects/Homework/obj/Debug/net8.0/Homework.GeneratedMSBuildEditorConfig.editorconfig
+/home/fuzzywood/RiderProjects/Homework/obj/Debug/net8.0/Homework.AssemblyInfoInputs.cache
+/home/fuzzywood/RiderProjects/Homework/obj/Debug/net8.0/Homework.AssemblyInfo.cs
+/home/fuzzywood/RiderProjects/Homework/obj/Debug/net8.0/Homework.csproj.CoreCompileInputs.cache
+/home/fuzzywood/RiderProjects/Homework/obj/Debug/net8.0/Homework.sourcelink.json
+/home/fuzzywood/RiderProjects/Homework/obj/Debug/net8.0/Homework.dll
+/home/fuzzywood/RiderProjects/Homework/obj/Debug/net8.0/refint/Homework.dll
+/home/fuzzywood/RiderProjects/Homework/obj/Debug/net8.0/Homework.pdb
+/home/fuzzywood/RiderProjects/Homework/obj/Debug/net8.0/Homework.genruntimeconfig.cache
+/home/fuzzywood/RiderProjects/Homework/obj/Debug/net8.0/ref/Homework.dll

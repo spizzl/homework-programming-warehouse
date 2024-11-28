@@ -1,0 +1,27 @@
+What to do:
+You're programming a warehouse system, that has products. Products have states, e.g. Out of order, Stocked, Ordered etc.
+
+Things I want to see:
+1. Menu Option: Register new Products (use a class) (Bonus: Save it into a .txt, .csv or Excell file for persistancy)
+
+2. Function to Check Product available (in stock, out of stock, ordered)
+
+3. Menu Option: Place Order (Bonus, if you do it with a class and with multiple products, but not necessary. Super Bonus if you are able to create a Hash of the order so make sure nobody manipulated the data afterwards. Make sure the hash can only be set once (Access Modifiers))
+
+4. Function to change Product amount (if order happens). Automatically set the correct state (enum) if the amount was changed. (Hint: Access Modifiers could be helpful here). Make sure only as much can be ordered as you have in stock.
+
+5. If the product has less than 10 pieces left, set the status to "RefillNeeded"
+
+5. When Product out of stock, a function that fills it up (set status to AwaitingShippment)
+
+6. Menu Option: Show all products and amounts
+
+
+Good luck!
+
+Feel free to contact me, if you have questions.
+
+
+Best regards
+
+Mike Walter

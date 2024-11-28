@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JvAAU8vexZE=",
+  "success": true,
+  "projectFilePath": "/home/fuzzywood/RiderProjects/Homework/Homework.csproj",
+  "expectedPackageFiles": [
+    "/home/fuzzywood/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
